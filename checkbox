@@ -1,0 +1,4 @@
+<input type="checkbox" name="ericswatch" id="chk-ericswatch">
+<label for="chk-ericswatch">
+  I've read and agreed with the terms of service.
+</label>
